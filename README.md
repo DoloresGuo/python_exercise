@@ -1,2 +1,5 @@
 # python_exercise
 python_exercise
+
+用于存储图灵学院Python课程代码及练习
+由于我是零基础学Python，代码作为课程练习巩固知识，仅供参考，其中含有的未修改bug均为提示作用
